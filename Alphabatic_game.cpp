@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    char a , b;
+    char a , b,c;
     vector<char> v;
    // int cnt =0;
    //  vector<int>::iterator it;
